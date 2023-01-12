@@ -1,6 +1,6 @@
 package classProblemByAmolMateSir.Day16And17DataStructureAndAlgorithmPracticeProble;
 
-public class Que2 {
+public class Que2BinarySearch {
 
     // Returns index of x if it is present in arr[],
     // else return -1
